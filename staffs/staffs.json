@@ -1,0 +1,122 @@
+[
+  {
+    "serial_number": "1",
+    "name": "Engr. Dr O. J. Onojo",
+    "rank": "Senior Lecturer (HOD)",
+    "qualification": "B.Eng, M.Eng, PhD",
+    "specialization": "Renewable Energy, Electrical Machines and Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "4",
+    "name": "Engr. Nathaniel C. Nnadi",
+    "rank": "Lecturer II",
+    "qualification": "B.Eng, M.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "3",
+    "name": "Engr. Ikechukwu H. Ezeh",
+    "rank": "Lecturer II",
+    "qualification": "B.Eng",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "2",
+    "name": "Mr Ifeanyi Charles Emeto",
+    "rank": "Assistant Lecturer (CYB Staff Advicer) ",
+    "qualification": "B.Sc, M.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "5",
+    "name": "Mr Chinedu Solomon Igwe",
+    "rank": "Assistant Lecturer",
+    "qualification": "B.Sc, M.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "6",
+    "name": "Mrs Euginia N. Festus Amaka",
+    "rank": "Assistant Lecturer",
+    "qualification": "B.Sc, M.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "7",
+    "name": "Miss Christiana Amaka Okoloegbo",
+    "rank": "Assistant Lecturer",
+    "qualification": "B.Sc, M.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "8",
+    "name": "Mr Toochi C. Ewunonu",
+    "rank": "Assistant Lecturer",
+    "qualification": "B.Sc, M.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "9",
+    "name": "Mr Cyril Femi Umanah",
+    "rank": "Graduate Assistant",
+    "qualification": "B.Eng",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "10",
+    "name": "Mrs Ifeoma L. Ibeneme Sabinus",
+    "rank": "Graduate Assistant",
+    "qualification": "B.Tech",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "11",
+    "name": "Mr Abdulahiu Adamu Galadima",
+    "rank": "Graduate Assistant",
+    "qualification": "B.Sc",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "12",
+    "name": "Mr Abubakar Aliyu Usman",
+    "rank": "Graduate Assistant",
+    "qualification": "B.Ed",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "13",
+    "name": "Mr Ochuba Emmanuel",
+    "rank": "Technologist",
+    "qualification": "HND",
+    "specialization": "Cybersecurity",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "14",
+    "name": "Mrs Nancy C. Irokanulo",
+    "rank": "Computer Operator",
+    "qualification": "",
+    "specialization": "",
+    "image": "/images/Avata-Image-4.png"
+  },
+  {
+    "serial_number": "15",
+    "name": "Mrs Benitta Abamara",
+    "rank": "Clerical Officer",
+    "qualification": "",
+    "specialization": "",
+    "image": "/images/Avata-Image-4.png"
+  }
+]

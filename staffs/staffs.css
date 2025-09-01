@@ -1,0 +1,99 @@
+body {
+  padding-bottom: 100%;
+  margin-bottom: 100%;
+  
+}
+
+
+
+.search-section {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-image: linear-gradient(45deg, blue, darkblue);
+  border: 3px solid black;
+  box-shadow: 2px 2px 2px 2px gray;
+  border-radius: 20px;
+}
+
+.search-input {
+  margin: 10px;
+  padding: 10px;
+  width: 50%;
+  
+}
+
+#search-input {
+  margin: 10px;
+  padding: 20px;
+  width: 100%;
+  background: #fff;
+  color: blue;
+  border: 3px solid #000;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+#search-input:focus {
+  
+}
+
+.search-btn {
+  
+}
+
+#search-btn {
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+#staffs-header {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  color: blue;
+  text-shadow: 2px 2px 3px #000;
+}
+
+
+
+ .staffs-show {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.staff-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 15px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+.staff-card:hover {
+  transform: scale(1.05);
+  background: #fff;
+}
+
+.staff-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  border: 2px solid #4caf50;
+}
+
+.staff-name {
+  margin: 8px 0;
+  font-size: 1.2rem;
+  color: #333;
+}
