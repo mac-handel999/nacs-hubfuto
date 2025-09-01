@@ -1,0 +1,90 @@
+[
+  {
+    "serial_number": "1",
+    "name": "RTR. COMR. ONYEGBULE SEMEONY SOGINEKE (Semeony)",
+    "Post": "PRESIDENT",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/01-presdo.png"
+  },
+  {
+    "serial_number": "2",
+    "name": "AMB. COMR. EZEIHEKAIBEE CHIEMERIE UDOCHI (Dochi Bee)",
+    "Post": "VICE PRESIDENT",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/02-v-presdo.png"
+  },
+  {
+    "serial_number": "3",
+    "name": "COMR. IZU-CHIEDO CHISOMAGA SAMUEL (Sammy)",
+    "Post": "SECRETARY GENERAL",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/03-sec-gen.png"
+  },
+  {
+    "serial_number": "4",
+    "name": "COMR. OKEREKE JANE KALU (Jane)",
+    "Post": "ASST. SECRETARY",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/04-assi-sec-gen.png"
+  },
+  {
+    "serial_number": "5",
+    "name": "COMR. IWUEZE ANNALISA NGOZIKA (Lisa)",
+    "Post": "TREASURER",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/05-treasurer.png"
+  },
+  {
+    "serial_number": "6",
+    "name": "COMR. GERVASE CHELSEA D'YUNG (Chelsea D'yung)",
+    "Post": "FINANCIAL SECRETARY",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/06-fin-sec.png"
+  },
+  {
+    "serial_number": "7",
+    "name": "COMR. NWOKEDI CHINEDU EBUBECHUKWU (CyberWorld)",
+    "Post": "DIRECTOR OF WELFARE",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/07-d-o-welfare.png"
+  },
+  {
+    "serial_number": "8",
+    "name": "COMR. NKARU-NWAOKORO MUNACHI C. (Evil Married Man)",
+    "Post": "DIRECTOR OF SOCIALS",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/08-d-o-socials.png"
+  },
+  {
+    "serial_number": "9",
+    "name": "COMR. KALU TOCHI VICTOR (Vicko)",
+    "Post": "DIRECTOR OF SPORTS",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/09-d-o-sports.png"
+  },
+  {
+    "serial_number": "10",
+    "name": "COMR. UZOMA CHINEDU BARTHOLOMEW (Bato)",
+    "Post": "DIRECTOR OF RESEARCH/ICT",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/0-10-d-o-ict.png"
+  },
+  {
+    "serial_number": "11",
+    "name": "JOURN. COMR. IBE OBIOMA LUCKY (Batista)",
+    "Post": "PUBLIC RELATIONS OFFICER/DOI",
+    "Level": "",
+    "Contact": "",
+    "image": "/Executives/excos-imgs/0-11-d-o-i.png"
+  }
+]
